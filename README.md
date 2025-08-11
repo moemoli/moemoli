@@ -1,10 +1,26 @@
-### Hi there 👋
-[![](https://github-readme-stats.vercel.app/api?username=moemoli&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=moemoli&count_private=true&show_icons=true)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=moemoli&langs_count=4)](https://github-readme-stats.vercel.app/api/top-langs/?username=moemoli&langs_count=100&layout=compact)
+## Hi there 👋!
 
-### Recommend Projects
+### Who am I 😕? 
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=cinit&repo=QAuxiliary)](https://github.com/cinit/QAuxiliary)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=moemoli&repo=PPBuff)](https://github.com/moemoli/PPBuff)
+ - 😸 A cute cyber catgirl 
+ - 😊 Programming enthusiasts
+ - 🌱 I’m currently learning ai/mysql
 
-![](https://moe-counter.glitch.me/get/@moemoli))
+### Skills ✏️
+
+[![Skills](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,idea,androidstudio,rust,flutter,dart,python,java,c,cpp,cs,css,html,linux,windows,php,nodejs,cloudflare,vue,docker,anaconda,cmake,gradle,postman,ps,ai,ae,)](https://skillicons.dev)
+
+### Stats 🔆
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=moemoli&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moemoli&layout=compact&langs_count=8&hide_border=true&theme=transparent" /> |
+| ------------- | ------------- |
+
+### Contacts 👋
+
+- Github: https://github.com/moemoli
+- Blog: https://blog.imoli.moe/
+- Email: [moli@imoli.moe](mailto:moli@imoli.moe)
+
+### Others 🤓
+
+![](https://moe-counter.glitch.me/get/@moemoli)
